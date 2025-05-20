@@ -9,19 +9,19 @@ uid: 207a476f-8ae5-4d17-a8f5-81b86a493550
 
 Below, Prof. Chappell Lawson describes various aspects of how he taught *17.588 Field Seminar in Comparative Politics* in the spring of 2024:
 
-**OCW:** In a seminar, discussion inherently forms a crucial part of the learning experience. How did you manage discussions in this course? Did current events ever impinge on the questions being discussed?
+**OCW:** In a seminar, discussion inherently forms a crucial part of the learning experience. How were your seminar sessions set up?
 
-**Chappell Lawson:** There is sometimes a brief overview lecture of 10–20 minutes at the beginning of the 2-hour class session to frame the issues and describe other topical material not assigned for that week. The rest is discussion, moderated by the instructor.
+**Chappell Lawson:** There was sometimes a brief overview lecture of 10–20 minutes at the beginning of the 2-hour class session to frame the issues and describe other topical material not assigned for that week. The rest was discussion, moderated by the instructor.
 
-**OCW:** You provided your students with a list of your “pet peeves”—in essence, a style guide for academic writing. How do you see your role in helping students develop as writers?
+**OCW:** Why do you provide your students with a list of “Stylistic and Substantive Hints for Writing Papers”?
 
-**Chappell Lawson:** If they don’t learn to write well, in an analytical style, they will fail as academics.
+**Chappell Lawson:** If students don’t learn to write well, in an analytical style, they will fail as academics.
 
-**OCW:** The readings you assigned cover a historical span stretching back to Aristotle’s writings from the first millennium BCE. Are these texts interesting primarily as historical documents—i.e., as showing where political science as a formal discipline began—or do they continue to speak to our present condition?
+**OCW:** Can you speak to the historical value of the older readings you assign in this course, such as Aristotle’s writings from the first millennium BCE?
 
 **Chappell Lawson:** It’s a terrible mistake to think of political science as something invented by Americans in the 1950s. Brilliant people—ancient Greeks, Chinese Legalists, South Asian political theorists, medieval Arab thinkers, Renaissance Europeans, and modern scholars from all over the world—have been asking and attempting to answer crucial questions about governance for almost as long as there have been states.
 
-**OCW:** What would you like to share about teaching 17.588 that we haven’t yet addressed? 
+**OCW:** What would you like to share about teaching 17.588 that we haven’t yet addressed? 
 
 **Chappell Lawson:** The success of the class is all about the grad students, who have been a joy to teach.
 
