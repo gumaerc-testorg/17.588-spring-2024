@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/field-seminar-in-comparative-politics/aristotle-statue.jpg
+file: /ol-ocw-studio-app/courses/17-588-field-seminar-in-comparative-politics-spring-2024/aristotle-statue.jpg
 file_size: 1793652
 file_type: image/jpeg
 image_metadata:
